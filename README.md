@@ -20,6 +20,10 @@ This app is intended to be the base project on top of which new features can be 
 
 Once you have imported base app, go ahead and run it, and you should see the following output : 
   
-![Imgur](http://i.imgur.com/ju5Mprkm.png)
+![Imgur](http://i.imgur.com/ju5Mprkl.png)
+
+Now we will go ahead and implement the exercise. At the end of exercise, final output will be 
+
+![Imgur](http://i.imgur.com/xgJJxf3l.png)
 
 # android-facebook-navigation-drawer

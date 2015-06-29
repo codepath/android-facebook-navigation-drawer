@@ -24,4 +24,4 @@ Once you have imported base app, go ahead and run it, and you should see the fol
 
 Now we will go ahead and implement the exercise. At the end of exercise, final output will be 
 
-![Imgur](http://i.imgur.com/XoBgJBV.gifv)
+![Imgur](http://i.imgur.com/XoBgJBV.gif)
